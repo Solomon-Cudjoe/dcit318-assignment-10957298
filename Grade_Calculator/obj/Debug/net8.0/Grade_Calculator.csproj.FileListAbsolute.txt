@@ -1,0 +1,15 @@
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.exe
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.deps.json
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.runtimeconfig.json
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.pdb
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.AssemblyInfoInputs.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.AssemblyInfo.cs
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.sourcelink.json
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\refint\Grade_Calculator.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.pdb
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.genruntimeconfig.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\ref\Grade_Calculator.dll
