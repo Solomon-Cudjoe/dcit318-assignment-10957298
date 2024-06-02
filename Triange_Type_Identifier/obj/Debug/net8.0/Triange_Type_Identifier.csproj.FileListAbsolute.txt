@@ -1,0 +1,15 @@
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\bin\Debug\net8.0\Triange_Type_Identifier.exe
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\bin\Debug\net8.0\Triange_Type_Identifier.deps.json
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\bin\Debug\net8.0\Triange_Type_Identifier.runtimeconfig.json
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\bin\Debug\net8.0\Triange_Type_Identifier.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\bin\Debug\net8.0\Triange_Type_Identifier.pdb
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.AssemblyInfoInputs.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.AssemblyInfo.cs
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.csproj.CoreCompileInputs.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.sourcelink.json
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\refint\Triange_Type_Identifier.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.pdb
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\Triange_Type_Identifier.genruntimeconfig.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Triange_Type_Identifier\Triange_Type_Identifier\obj\Debug\net8.0\ref\Triange_Type_Identifier.dll

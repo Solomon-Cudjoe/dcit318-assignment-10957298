@@ -1,0 +1,15 @@
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\net8.0\Ticket_Price_Calculator.exe
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\net8.0\Ticket_Price_Calculator.deps.json
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\net8.0\Ticket_Price_Calculator.runtimeconfig.json
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\net8.0\Ticket_Price_Calculator.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\net8.0\Ticket_Price_Calculator.pdb
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.AssemblyInfoInputs.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.AssemblyInfo.cs
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.sourcelink.json
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\refint\Ticket_Price_Calculator.dll
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.pdb
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\Ticket_Price_Calculator.genruntimeconfig.cache
+C:\Users\SOLOMON CUDJOE\source\repos\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\net8.0\ref\Ticket_Price_Calculator.dll

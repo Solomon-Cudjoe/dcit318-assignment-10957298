@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Triange_Type_Identifier/1.0.0": {
+        "runtime": {
+          "Triange_Type_Identifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triange_Type_Identifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
